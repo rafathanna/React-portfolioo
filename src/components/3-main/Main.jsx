@@ -7,7 +7,7 @@ const initialProjects = [
   { id: 4, imgPath: "ecc.PNG", proTitle: "Ecommerce project", proDescribe: "", category: "arr", link: "ecommerce-website-fe7c7.web.app/" },
   { id: 5, imgPath: "image.png", proTitle: "Courses Website", proDescribe: "", category: "arr", link: " https://rafathanna.github.io/Courses-website/" },
   { id: 3, imgPath: "/s.png", proTitle: "Shadow-Generator", proDescribe: "", category: "arr", link: "https://rafathanna.github.io/Shadow-Generator/" },
-  { id: 6, imgPath: "Capture.PNG", proTitle: "My Cv", proDescribe: "", category: "cv", link: "https://drive.google.com/file/d/1isOUbMDMfevFA5n2rNpgqPfXCsB8lPN7/view?usp=sharing" },
+  { id: 6, imgPath: "Capture.PNG", proTitle: "My Cv", proDescribe: "", category: "cv", link: "https://drive.google.com/file/d/1mWwSFYlHHM_pEg84-QumykcEiqdo4wad/view?usp=sharing" },
   { id: 7, imgPath: "cer1 (1).jpeg", proTitle: "Certificate  1", proDescribe: "", category: "ce", link: "https://drive.google.com/file/d/18Ehh_qi_0k1QA-IbPRBpcSvtsOc1x8Fs/view?usp=sharing" },
   { id: 8, imgPath: "cer1 (2).jpeg", proTitle: "Certificate  2", proDescribe: "", category: "ce", link: "https://drive.google.com/file/d/10DvTvxSVluUXcGjelO0Y6e76KOJbyckD/view?usp=sharing" },
   { id: 9, imgPath: "cer1 (3).jpeg", proTitle: "Certificate 3", proDescribe: "", category: "ce", link: "https://drive.google.com/file/d/1G-JVSK7QJ7D-9eussMGeWtGvj0miS590/view?usp=drive_link" },
