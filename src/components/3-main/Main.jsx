@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./main.css";
 
 const initialProjects = [
-  { id: 1, imgPath: "/zz.png", proTitle: "https://rafathanna.github.io/dashboard/", proDescribe: "", category: "arr", link: "https://rafathanna.github.io/dashboard/" },
+  { id: 1, imgPath: "/zz.jpg", proTitle: "", proDescribe: "", category: "arr", link: "https://rafathanna.github.io/dashboard/" },
   { id: 2, imgPath: "/To do list.png", proTitle: "To Do List", proDescribe: "", category: "arr", link: "https://rafathanna.github.io/TO-DO-LIST/" },
   { id: 4, imgPath: "ecc.PNG", proTitle: "Ecommerce project", proDescribe: "", category: "arr", link: "ecommerce-website-fe7c7.web.app/" },
   { id: 5, imgPath: "image.png", proTitle: "Courses Website", proDescribe: "", category: "arr", link: " https://rafathanna.github.io/Courses-website/" },
